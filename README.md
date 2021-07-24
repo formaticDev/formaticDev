@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @formaticDev
+- 👋 Hi, I amm Anton Pluzharov.
 - 👀 I’m interested in backend (server side) programming, cyber security and QA.
 - 🌱 I’m currently learning CS degree at Open University of Israel.
 - Former QA Automation Engineer at "Check Point Software Technologies".
