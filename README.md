@@ -1,5 +1,5 @@
-- 👋 Hi, I amm Anton Pluzharov.
-- 👀 I’m interested in backend (server side) programming, cyber security and QA.
+- 👋 Hi, I am Anton Pluzharov.
+- 👀 I’m interested in backend programming, cyber security and QA.
 - 🌱 I’m currently studying CS degree at Open University of Israel.
 - Lead Automation Engineer at "Check Point Software Technologies".
 
