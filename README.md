@@ -1,7 +1,7 @@
 - 👋 Hi, I am Anton Pluzharov.
-- 👀 I’m interested in backend programming, cyber security and QA.
-- 🌱 I’m currently studying CS degree at Open University of Israel.
-- Automation Developer at "Check Point Software Technologies".
+- 👀 Interested in backend programming and cyber security.
+- 🌱 Studying CS degree at Open University of Israel.
+- Backend Software Developer at "Check Point Software Technologies".
 
 <!---
 formaticDev/formaticDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
